@@ -1,0 +1,10 @@
+{
+  "name": "fraud_detection",
+  "version": "1.0.0",
+  "description": "Banks fraud detection with machine learning",
+  "main": "index.js",
+  "repository": "https://github.com/elisiomualumene/banks_fraud_deetection.git",
+  "author": "elisiomualumene <elisiomualumene@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
